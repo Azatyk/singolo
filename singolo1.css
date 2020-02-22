@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 1020px;
+    margin: auto;
+}
+
+.header {
+    height: 95px;
+    width: 100%;
+    background-color: #2d303a;
+}
