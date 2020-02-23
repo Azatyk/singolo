@@ -7,7 +7,6 @@
     width: 1020px;
     margin: auto;
     font-family: 'Lato', sans-serif;
-    /* border: 1px solid red; */
 }
 
 .header {
@@ -15,10 +14,8 @@
     width: 940px;
     padding: 30px 40px 0 40px;
     display: flex;
-    /* align-items: center; */
     justify-content: space-between;
     background-color: #2d303a;
-    /* border: 1px solid blue; */
 }
 
 .logo {
@@ -37,6 +34,7 @@
     margin-top: 11px;
     display: flex;
     justify-content: space-between;
+    vertical-align: center;
     text-decoration: none;
     color: white;
 }
@@ -46,4 +44,18 @@
     text-transform: uppercase;
     text-decoration: none;
     color: white;
+}
+
+.selected {
+    color: #f06c64;
+}
+
+.decoration-point {
+    color: #494e62;
+}
+
+.point-conteiner {
+    height: 20%;
+    display: flex;
+    align-items: center;
 }
