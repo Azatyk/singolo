@@ -26,11 +26,11 @@
 }
 
 .heading {
-    font-size: 30px;
     text-transform: capitalize;
 }
 
 .portfolio-heading {
+    font-size: 30px;
     margin-top: 60px; 
     letter-spacing: 0.3px;
     font-weight: 900;
